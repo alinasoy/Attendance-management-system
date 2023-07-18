@@ -13,7 +13,8 @@ To solve the issue of attendance tracking, a smart & authenticated attendance sy
 method which takes attendance automatically by detecting the faces & roll no. of the students which saves time & helps in managing attendance effectively. It allows us to maintain records easily.
 Limits human intervention.
 
-Output
+OUTPUT
+
 ![f](https://github.com/alinasoy/Attendance-management-system/assets/127585848/c1f4435b-988c-4fec-90b4-0d2e64cc604e)
 ![s](https://github.com/alinasoy/Attendance-management-system/assets/127585848/12b1e2e9-9d0a-4e7d-b412-41b57ebea1ac)
 ![face](https://github.com/alinasoy/Attendance-management-system/assets/127585848/c1ec35b0-ed4e-43b3-ad26-1fdef277fde9)
